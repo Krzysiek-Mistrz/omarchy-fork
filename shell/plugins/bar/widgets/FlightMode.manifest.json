@@ -15,6 +15,7 @@
     "displayName": "Flight Mode",
     "description": "Block or unblock all wireless radios",
     "category": "Network",
-    "allowMultiple": false
+    "allowMultiple": false,
+    "defaultSection": "right"
   }
 }
